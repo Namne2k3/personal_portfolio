@@ -1,0 +1,32 @@
+.app__footer {
+    flex-direction: column;
+    background: var(--color-black);
+}
+.app__footer-links {
+    max-width: 600px;
+    width: 100%;
+    margin-bottom: 4rem;
+}
+.app__footer-links a {
+    margin:0 2rem;
+}
+.app__footer-logo {
+    float: 1;
+    font-size: 3rem;
+    color: var(--color-white);
+    margin-right: 3rem;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.app__footer-logo:hover {
+    color: var(--color-gray);
+    transform: translateY(-10px);
+}
+.app__footer-logo:last-child {
+    margin-right: 0;
+}
+.app__footer p {
+    font-size: 1rem;
+    color: var(--color-gray);
+    font-family: var(--font-family);
+}
