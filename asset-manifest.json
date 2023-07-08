@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal_portfolio/static/css/main.6a437f68.css",
+    "main.js": "/personal_portfolio/static/js/main.9fe6638e.js",
+    "static/js/787.fb771931.chunk.js": "/personal_portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/project_1.png": "/personal_portfolio/static/media/project_1.cae2ff95e491c5a28e64.png",
+    "static/media/project_2.png": "/personal_portfolio/static/media/project_2.a5d584ad8cab6b8b31ba.png",
+    "static/media/gallery_03.png": "/personal_portfolio/static/media/gallery_03.2c3c0d9cddba84a8d5aa.png",
+    "static/media/gallery_01.png": "/personal_portfolio/static/media/gallery_01.bae6427fb3ee4ccc5b73.png",
+    "static/media/gallery_02.png": "/personal_portfolio/static/media/gallery_02.4c41c47c46e1102f9d80.png",
+    "static/media/gallery_05.png": "/personal_portfolio/static/media/gallery_05.e940ba5be5e47e1d8e9b.png",
+    "static/media/gallery_04.png": "/personal_portfolio/static/media/gallery_04.8332ded6c7f51b808163.png",
+    "static/media/logo_bg_namne.png": "/personal_portfolio/static/media/logo_bg_namne.31d63d81a3df5d16c281.png",
+    "static/media/project_3.png": "/personal_portfolio/static/media/project_3.c2f6dea0ffd2b659b9fd.png",
+    "static/media/namlogo.png": "/personal_portfolio/static/media/namlogo.af475b1e787c0e164174.png",
+    "static/media/namne.png": "/personal_portfolio/static/media/namne.233f38a8af24bc6e85e6.png",
+    "static/media/namne_2.png": "/personal_portfolio/static/media/namne_2.602b67e8549afe7981fb.png",
+    "static/media/bg_repeat.png": "/personal_portfolio/static/media/bg_repeat.ff4facf9aabe0c79843e.png",
+    "index.html": "/personal_portfolio/index.html",
+    "main.6a437f68.css.map": "/personal_portfolio/static/css/main.6a437f68.css.map",
+    "main.9fe6638e.js.map": "/personal_portfolio/static/js/main.9fe6638e.js.map",
+    "787.fb771931.chunk.js.map": "/personal_portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a437f68.css",
+    "static/js/main.9fe6638e.js"
+  ]
+}
